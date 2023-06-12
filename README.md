@@ -63,7 +63,9 @@ print(x)
 ## Output:
 ##  L and U matrix
 <img width="574" alt="5a" src="https://github.com/Rohithravi333/LU-Decomposition/assets/119394126/d7e385fe-ad87-4bcf-b8df-b361eb671ecb">
-## LU Decomposition of a matrix
+
+### LU Decomposition of a matrix
+
 <img width="502" alt="5b" src="https://github.com/Rohithravi333/LU-Decomposition/assets/119394126/d5714002-2da5-4728-a9c2-abf394085b7a">
 
 
